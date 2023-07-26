@@ -1,2 +1,2 @@
 # Coding Ninjas skill test - 1 
-site link - https://github.com/Master-abhi/stopwatch2.git
+site link - [https://github.com/Ritzon083/Stopwatch_Subhashree]
